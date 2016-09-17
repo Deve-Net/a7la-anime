@@ -1,0 +1,48 @@
+body{background-color:#F9F9F9}
+#mainsearch{padding:0;padding-right:10px;border-radius:0}
+td.catwigdet{text-align:center;padding:8px;border-radius:4px 4px 0 0;background-color:#fafafa}
+.reg7anime{left:50px}
+.systab.s_float .tab,.systab.s_float .tab{display:block;margin:5px}
+.systab.s_float .tabs,.systab.s_float .contents{float:left}
+.systab .contents br,.systab .contents .profilePopup{display:none}
+Â£panda_selector_1401146192505_0_m_pandaÂ£{background:rgba(0,0,0,0.75);position:fixed;height:100%;width:100%;top:0;left:0}
+#kinboxpop{background:rgba(0,0,0,0.75);position:fixed;height:100%;width:100%;top:0;left:0}
+#kinboxpop #knmessagepop{background:#fff;border:1px solid #999;height:auto;margin:25% auto;overflow:hidden;width:500px}
+#kinboxpop #knmessagepop h3{position:relative;text-align:center;background:#333;border-bottom:1px solid #222;color:#fff;margin:0;font-weight:700;padding:5px 0}
+#kinboxpop #closepop{cursor:pointer;position:absolute;right:0;top:0}
+#kinboxpop #contentmess{float:left;text-align:center;width:100%;padding:15px 0}
+.topic-warning-block{margin:10px 0;padding:15px 10px 15px 50px;background-repeat:no-repeat;background-position:right;background-image:url(http://1.bp.blogspot.com/_5rlxf3T9Z9U/SsIXuytpYfI/AAAAAAAADcI/I4Tm0W5gDQk/lock_32.png);color:#750000!important;background-color:#D26067;-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;text-align:center;font-weight:700;font-size:18px;text-shadow:1px 1px 1px #AAA}
+#lastedited{border-radius:4px 4px 4px 4px;border:1px solid #f95558;padding:10px;text-align:center;color:#fff;margin-bottom:10px;background:none repeat scroll 0 0 rgba(249,85,88,0.6);font-weight:700}
+#lastedited br{display:none}
+#lastedited:empty{display:none}
+.a7laedit:hover{border-right:5px solid #1787af;border-left:5px solid #1787af;border-top:1px solid #1787af;border-bottom:1px solid #1787af}
+.a7ladelete:hover{border-right:5px solid #f23d40;border-left:5px solid #f23d40;border-top:1px solid #f23d40;border-bottom:1px solid #f23d40}
+.a7lareply:hover{border-right:5px solid #129c4c;border-left:5px solid #129c4c;border-top:1px solid #129c4c;border-bottom:1px solid #129c4c}
+.a7lathank:hover{border-right:5px solid #557C1B;border-left:5px solid #557C1B;border-top:1px solid #557C1B;border-bottom:1px solid #557C1B}
+.a7laquote:hover{border-right:5px solid #ea7317;border-left:5px solid #ea7317;border-top:1px solid #ea7317;border-bottom:1px solid #ea7317}
+.a7lapostprivate:hover{border-bottom:4px solid #557C1B}
+.a7lapostprofile:hover{border-bottom:4px solid #ea7317}
+.a7lareplypost:hover{border-right:5px solid #1290CA;border-left:5px solid #1290CA;border-top:1px solid #1290CA;border-bottom:1px solid #1290CA}
+.a7lanewpost:hover{border-right:5px solid #557c1b;border-left:5px solid #557c1b;border-top:1px solid #557c1b;border-bottom:1px solid #557c1b}
+.a7lalockedpost:hover{border-right:5px solid #CA1212;border-left:5px solid #CA1212;border-top:1px solid #CA1212;border-bottom:1px solid #CA1212}
+.news_topic_author:before{content:'Ø¨ÙˆØ§Ø³Ø·Ø© '}
+.news_topic_time:before{content:'Ø£Ø®Ø± Ù…Ø³Ø§Ù‡Ù…Ø© ÙÙŠ: '}
+.notifFaceavatar{float:right!important}
+.notifFaceavatar img{height:60px!important;width:60px!important;margin-top:-12px;margin-right:-12px;margin-left:5px}
+#quick_reply table{width:86%;margin-right:115px}
+input.liteoption{min-width:110px;font-weight:700}
+input.mainoption{min-width:110px}
+table.borderDev th.thead{padding:0 0 0 20px;text-align:right}
+th.thead label:hover{cursor:pointer;border-color:#ddd;background:none repeat scroll 0 0 #fff;border-top:2px solid #FE9748}
+th.thead label.active{cursor:pointer;border-color:#ddd;background:none repeat scroll 0 0 #fff;border-top:2px solid #2dbb69}
+th.thead label{background:none repeat scroll 0 0 rgba(255,255,255,0.7);display:inline-block;height:34px;line-height:30px;padding:4px 12px;border-width:1px 1px 0;border-style:solid solid none;border-color:#ddd;-moz-border-top-colors:none;-moz-border-right-colors:none;-moz-border-bottom-colors:none;-moz-border-left-colors:none;border-image:none;margin-left:2px}
+.style-color li{width:22px;height:22px;border:1px solid rgba(0,0,0,.3);padding:1px;border-radius:200px;float:right;margin:3px}
+.style-color li a{font-size:9px;padding:5px 12px}
+#headernav{margin-top:6px}
+#leftnav{top:60px;width:400px}
+#profileLinks{display:block;padding:3px;margin:-5px -4px -4px;float:right;width:218px;border-radius:0 0 5px 5px}
+#fa_toolbar #fa_right.notification #notif_list{margin-top:13px;margin-left:5px}
+#LGal7anews_113 li{float:right;margin-left:250px}
+.img7forum img{border-radius:0 4px 4px 0;padding-top:8px}
+.headermenu li a{font-weight:700}
+#fa_toolbar #fa_right #notif_list li.see_all{width:190px}
