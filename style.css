@@ -1,0 +1,89 @@
+#awc_contextmenu p,.achat_button[onclick="avacweb_chat.settings.toggle(\'reading\');"],.achat_button[onclick="avacweb_chat.showhide(\'achat_smilies\')"],.csss3{transition:all .3s ease-out 0}
+#awc_messages .user{cursor:pointer;text-transform:uppercase;width:100%;float:left;text-align:right}
+.achat_button[onclick="avacweb_chat.settings.toggle(\'reading\');"]:hover,.achat_button[onclick="awc_phpbb2_smilies()"]:hover,.company-icon:hover{opacity:.5!important}
+.achat_button[onclick="avacweb_chat.settings.toggle(\'reading\');"],.achat_button[onclick="awc_phpbb2_smilies()"],.company-icon{opacity:1!important}
+.hyyyy:before{content:"ïƒ‰"}
+.hyyy:before{content:"ï€‰"}
+.hyyyyy:before{content:"ï‚‹"}
+.hyyyyyy:before{color:red;content:"ï†‡"}
+.hyyyyyyy:before{content:"ï†‡"}
+.achat_button[onclick="avacweb_chat.settings.toggle(\'reading\');"]:before{content:"ï®"}
+.achat_button[onclick="awc_phpbb2_smilies()"]:before{content:"ï„˜"}
+#avacweb_chat{bottom:30px;font-family:sans-serif;height:500px;position:fixed;right:10px;width:310px;z-index:999}
+.custom_placement #avacweb_chat{bottom:initial;height:400px;min-width:700px;position:relative;top:initial;z-index:inherit}
+#avacweb_chat_button.newmsg{background:none repeat scroll 0 0 orange;color:#FFF;text-shadow:0 1px #555}
+#awc_tabs{background:none repeat scroll 0 0 #EEE;border-bottom:1px solid #CCC;display:block;margin:0;padding:0}
+#awc_header{bottom:-24px;float:left;left:-8px;position:absolute;z-index:1}
+#awc_userlist{background:none repeat scroll 0 0 #EEE;bottom:44px;display:none;float:right;font-family:font4egy;font-size:10px;font-weight:700;height:414px;position:absolute;right:12px;text-transform:uppercase;width:300px;z-index:2}
+#awc_messages{max-height:382px;min-height:382px;overflow-y:auto;overflow-x:hidden;width:300px}
+#awc_title{color:#FFF;font-size:2em;font-weight:700;margin-left:10px;text-shadow:0 1px #00F}
+#awc_buttons{float:right}
+#awc_userlist h4.member-title{background:none repeat scroll 0 0 #B7D3EB;font-size:1.2em;font-weight:700;margin:0;padding:7px;text-align:center}
+#awc_userlist .online-users{background-color:#F5F5F5;border-bottom:1px solid #DDD;border-top:1px solid #FFF;margin:0;padding:5px;text-align:center;width:290px}
+#awc_userlist li{cursor:pointer;font-size:1.1em;list-style-type:none}
+#awc_userlist li.idle{font-style:italic}
+#awc_userlist li.idle:after{color:#888;content:"(ØºØ§Ø¦Ø¨)";font-style:italic;margin-left:5px}
+.achat_tab{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;background:none repeat scroll 0 0 #C8D8EB;border-color:-moz-use-text-color #FFF -moz-use-text-color -moz-use-text-color;border-image:none;border-radius:0 0 0 0;border-style:none solid none none;border-width:medium 1px medium medium;box-shadow:0 5px 5px #DFE9FA inset;color:#2D68D1;cursor:pointer;display:inline-block;font-size:12px;font-weight:700;margin:0;padding:3px 17px;text-shadow:0 1px #EEE}
+#achat_login{background:none repeat scroll 0 0 #F09F9F;border:1px solid #ECAFAF;border-radius:3px 3px 3px 3px;box-shadow:0 10px 15px #F5CDCD inset;color:#CE3737;font-size:20px;font-weight:700;margin:10px auto;padding:5px 0;text-align:center;text-shadow:0 1px #F3E1E1;width:90%}
+#awc_form{float:right;width:290px;box-shadow:0 3px 5px #ccc inset;border:1px solid #888;background-color:#fff}
+.achat_button{cursor:pointer;display:inline-block}
+.achat_row{border-bottom:1px solid #DDD;border-top:1px solid #FFF;line-height:21px;min-height:50px;padding:5px 2px;position:relative;margin-left:50px;margin-top:5px;margin-right:5px;border-radius:4px}
+.achat_row.my_message{background:none repeat scroll 0 0 #CFE8FF;margin-right:50px!important;margin-top:5px;margin-left:5px!important}
+.achat_row .date-and-time{float:right;font-size:9px;position:absolute;display:none}
+.chatbox_row_1,.chatbox_row_2,.chatbox_row_3{color:#000!important;font-size:11px;text-shadow:0 1px 0 rgba(255,255,255,0.5)}
+#achat_colors,#achat_popup,#achat_smilies,#achat_user_prefs{background:none repeat scroll 0 0 #DDD;border:1px solid #BBB;border-radius:3px 3px 3px 3px;bottom:80px;box-shadow:3px 3px 10px #888888,0 20px 20px #EEE inset;font-family:font4egy;font-size:10px;font-weight:700;left:5%;max-height:250px;overflow:auto;padding:10px;position:absolute;text-shadow:0 1px #FFF}
+#achat_popup{left:20%;min-width:45%;text-align:center}
+#achat_popup.error{border:2px solid #E76878}
+.awc_x{color:#E27474;cursor:pointer;float:right;font-family:sans;font-size:2em;font-weight:700;margin-right:5px;margin-top:-2px;text-shadow:0 1px #FFF}
+.awc_x:hover{color:#D52727}
+.contexthead .awc_x{font-family:inherit!important;font-size:19px!important;margin-left:-5px!important;margin-top:-6px!important;padding:0 10px;float:left}
+.achat_user_setting{border:1px solid #CCC;margin:3px 0;padding:2px 5px;width:150px;color:#000}
+.achat_pm_prepend{font-size:.8em;font-style:italic;font-weight:700;margin-right:5px}
+#awc_contextmenu{background:none repeat scroll 0 0 #EEE;border:1px solid #CCC;bottom:44px;position:absolute;right:11px;z-index:999;height:412px!important}
+#awc_contextmenu p a{font-family:font4egy;font-size:15px;text-decoration:none}
+#awc_contextmenu p{border-bottom:1px solid #CCC;cursor:pointer;margin:0;padding:3px 5px}
+#awc_contextmenu p:hover{background:none repeat scroll 0 0 #DDD}
+#awc_contextmenu p.contexthead{background:none repeat scroll 0 0 #CCC;box-shadow:0 10px 15px #DDD inset;color:#555;cursor:default;font-size:1.1em;font-weight:700;margin:0;padding:5px;text-shadow:0 1px #FFF}
+#awc_contextmenu .contexthead img{cursor:pointer;float:right}
+#achat_dimensions{display:inline;height:30px;width:80px}
+#achat_dimensions span{background-color:#EEE;background-position:center center;background-repeat:no-repeat;border-radius:3px 3px 3px 3px;display:block;float:left;height:20px;margin-left:5px;opacity:.7;padding:2px;width:20px}
+#achat_dimensions span:hover{opacity:1}
+#achat_resizer{background-image:url(http://i14.servimg.com/u/f14/17/20/25/96/resize10.gif)}
+#achat_mover{background-image:url(http://i14.servimg.com/u/f14/17/20/25/96/move_i10.jpg)}
+.achat_tab .delete_tab{color:#E71919;display:none;font-family:serif;font-size:20px;font-weight:700;margin:-2px 1px;padding:0 2px;position:absolute;text-shadow:none}
+.achat_button.reading{color:red}
+#achat_colors,#achat_smilies{margin:0 2%;max-width:96%;right:0}
+#achat_colors td{border:1px solid #FFF;cursor:crosshair;padding:5px}
+.a_chat_cmd,.a_chat_pm,.a_chat_tab,table.a_chat_pm{display:none!important}
+.achat_tab.selected{background:none repeat scroll 0 0 #5C8AFF;box-shadow:0 5px 5px #669CF8 inset;color:#FFF;text-shadow:0 1px #222}
+.achat_tab:hover .delete_tab{display:inline}
+.achat_tab.new{background:none repeat scroll 0 0 #F0D096}
+#achat_smilies input[type="submit"],#achat_smilies p.center{display:none}
+#awc_message{background-color:transparent;border:medium none;padding:7px 5px 7px 0;width:98%}
+.achat_button[onclick="avacweb_chat.settings.toggle(\'archives\')"]{bottom:0;position:absolute}
+.achat_button[onclick="avacweb_chat.showhide(\'achat_user_prefs\')"]{bottom:11px;float:left;left:86px;position:absolute;color:#fff}
+.achat_button[onclick="avacweb_chat.showhide(\'achat_colors\')"]{bottom:11px;float:left;position:absolute;color:#fff}
+.achat_button[onclick="awc_phpbb2_smilies()"]{bottom:11px;float:left;position:absolute;color:#fff}
+#avacweb_chat_holder.mobile{font-size:100%}
+.mobile #avacweb_chat{bottom:5%;height:95%;right:0;top:0;width:100%}
+.mobile #awc_footer > .achat_button{display:none}
+.mobile #awc_form,.mobile #awc_rightbox,.mobile #awc_userlist{float:inherit;width:100%}
+.mobile #awc_message{width:70%}
+.mobile #awc_userlist{height:auto;max-height:150px;overflow:auto}
+.mobile #awc_userlist li{display:inline}
+.mobile #awc_rightbox{height:70%}
+.mobile #avacweb_chat_button{height:5%;width:100%}
+.mobile #awc_buttons{float:inherit}
+.mobile #awc_title,.mobile .achat_row .date-and-time{display:none}
+.achat_button[onclick="avacweb_chat.popup(\'update\')"],.achat_button[onclick="avacweb_chat.submit()"]{display:none!important}
+#showuser{color:#fff;cursor:pointer;display:block;float:right;font-weight:700;padding:11.5px;text-align:center;width:8%;font-size:20px}
+#hideuser{color:#fff;cursor:pointer;display:none;float:right;font-weight:700;padding:11.5px;text-align:center;width:8%;font-size:20px}
+.my_message .user{margin-right:5px!important;float:right!important;text-align:right!important}
+.achat_button[onclick="avacweb_chat.settings.toggle(\'reading\');"],.achat_button[onclick="awc_phpbb2_smilies()"],.company-icon{font-family:FontAwesome!important}
+#awc_contextmenu p,.achat_button[onclick="avacweb_chat.settings.toggle(\'reading\');"],.achat_button[onclick="awc_phpbb2_smilies()"],.csss3{transition:all .3s ease-out 0}
+.achat_button[onclick="avacweb_chat.settings.toggle(\'reading\');"],.achat_button[onclick="awc_phpbb2_smilies()"],.chco{font-size:16px;color:#fff}
+#chat7anime{color:#fff;float:right;padding:10px;width:77%;font-weight:700;font-size:18px}
+#chat7anime i{font-size:22px;margin-left:10px}
+.achat_user_setting input{float:left;margin:7px 0}
+.achat_row .awc_avatar{border-radius:4px}
+.my_message .awc_avatar{border-radius:4px!important;margin-top:5px!important;margin-right:-50px!important;margin-left:0!important}
